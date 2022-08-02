@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "test-task-todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://kronord.github.io/Test-Task-TodoList/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
